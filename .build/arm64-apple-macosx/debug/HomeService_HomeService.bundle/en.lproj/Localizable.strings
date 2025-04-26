@@ -1,7 +1,0 @@
-"time_range.today" = "Today";
-"time_range.yesterday" = "Yesterday";
-"time_range.this_week" = "This Week";
-"time_range.last_week" = "Last Week";
-"time_range.this_month" = "This Month";
-"time_range.last_month" = "Last Month";
-"time_range.custom" = "%@ to %@"; 
