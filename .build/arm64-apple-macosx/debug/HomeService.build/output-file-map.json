@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/master.swiftdeps"
+  },
+  "/Users/zangqilong/workspace/HealthService/Sources/HomeService/Extensions/Calendar+Extension.swift": {
+    "dependencies": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/Calendar+Extension.d",
+    "object": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/Calendar+Extension.swift.o",
+    "swiftmodule": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/Calendar+Extension~partial.swiftmodule",
+    "swift-dependencies": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/Calendar+Extension.swiftdeps"
+  },
+  "/Users/zangqilong/workspace/HealthService/Sources/HomeService/HealthDataType.swift": {
+    "dependencies": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/HealthDataType.d",
+    "object": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/HealthDataType.swift.o",
+    "swiftmodule": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/HealthDataType~partial.swiftmodule",
+    "swift-dependencies": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/HealthDataType.swiftdeps"
+  },
+  "/Users/zangqilong/workspace/HealthService/Sources/HomeService/HealthService.swift": {
+    "dependencies": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/HealthService.d",
+    "object": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/HealthService.swift.o",
+    "swiftmodule": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/HealthService~partial.swiftmodule",
+    "swift-dependencies": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/HealthService.swiftdeps"
+  },
+  "/Users/zangqilong/workspace/HealthService/Sources/HomeService/TimeRange.swift": {
+    "dependencies": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/TimeRange.d",
+    "object": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/TimeRange.swift.o",
+    "swiftmodule": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/TimeRange~partial.swiftmodule",
+    "swift-dependencies": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/TimeRange.swiftdeps"
+  },
+  "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/resource_bundle_accessor.d",
+    "object": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeService.build/resource_bundle_accessor.swiftdeps"
+  }
+}

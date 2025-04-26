@@ -1,0 +1,4 @@
+module HomeServicePackageTests {
+    header "/Users/zangqilong/workspace/HealthService/.build/arm64-apple-macosx/debug/HomeServicePackageTests.build/HomeServicePackageTests-Swift.h"
+    requires objc
+}

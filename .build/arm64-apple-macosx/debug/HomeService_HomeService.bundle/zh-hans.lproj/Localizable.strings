@@ -1,0 +1,7 @@
+"time_range.today" = "今天";
+"time_range.yesterday" = "昨天";
+"time_range.this_week" = "本周";
+"time_range.last_week" = "上周";
+"time_range.this_month" = "本月";
+"time_range.last_month" = "上月";
+"time_range.custom" = "%@ 至 %@"; 
