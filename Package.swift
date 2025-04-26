@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "HomeService",
+    name: "YGCHealthService",
     defaultLocalization: "en",
     platforms: [
         .iOS(.v15),
@@ -10,19 +10,19 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "HomeService",
-            targets: ["HomeService"]),
+            name: "YGCHealthService",
+            targets: ["YGCHealthService"]),
     ],
     dependencies: [],
     targets: [
         .target(
-            name: "HomeService",
+            name: "YGCHealthService",
             dependencies: [],
             resources: [
                 .process("Resources")
             ]),
         .testTarget(
-            name: "HomeServiceTests",
-            dependencies: ["HomeService"]),
+            name: "YGCHealthServiceTests",
+            dependencies: ["YGCHealthService"]),
     ]
 ) 
